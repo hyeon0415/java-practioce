@@ -35,6 +35,7 @@ public class Ex04 {
 
 
 
+        // 정규표현식
         String emailRegex = "^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$";
 
         String str_c1 = "yalco@yalco.kr";
