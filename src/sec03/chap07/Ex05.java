@@ -3,7 +3,7 @@ package sec03.chap07;
 public class Ex05 {
     public static void main(String[] args) {
         String emptyStr = "";
-        String nullStr = "ss";
+        String nullStr = "";
 
         //  ⭐️ 빈 문자열과 null은 다름
         boolean bool1 = emptyStr == nullStr;
