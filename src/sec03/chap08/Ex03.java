@@ -4,8 +4,7 @@ public class Ex03 {
     public static void main(String[] args) {
         //  이중 배열
         boolean[][] dblBoolAry = new boolean[3][3];
-
-
+        // Array가 0,1만 생겨야하는게 아닌가?
 
         int[][] dblIntAry = new int[][] {
                 //  ⭐️ 요소 배열의 크기가 다를 수 있음

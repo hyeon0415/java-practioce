@@ -17,6 +17,7 @@ public class Ex02 {
         int [] intAry = {1, 2, 3, 4, 5};
 
         //  ⚠️ 런다임 에러: ArrayIndexOutOfBoundsException
+        //int outOfAry = intAry[intAry.length];
         int outOfAry = intAry[intAry.length - 1];
     }
 }
