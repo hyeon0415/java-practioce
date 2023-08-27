@@ -7,7 +7,7 @@ public class Ex05 {
             //  💡 continue : 한 루프만 건너뜀
             if (i % 3 == 0) continue;
 
-            //  💡 break : ㅂㅏㄴ복 전체를 종료
+            //  💡 break : 반복 전체를 종료
             if (i == 10) break;
 
             System.out.println(i);
