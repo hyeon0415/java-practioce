@@ -6,7 +6,7 @@ public class Button {
     int space;
     String mode;
 
-    Button (char print, int space, String mode) {
+    public Button(char print, int space, String mode) {
         this.print = print;
         this.space = space;
         this.mode = mode;
